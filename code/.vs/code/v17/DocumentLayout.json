@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\figni\\opLabs\\laba2\\firstTry\\code\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C90362CD-B771-40C3-8C4F-313A3BC81534}|code\\code.vcxproj|C:\\figni\\opLabs\\laba2\\firstTry\\code\\code\\account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C90362CD-B771-40C3-8C4F-313A3BC81534}|code\\code.vcxproj|solutionrelative:code\\account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C90362CD-B771-40C3-8C4F-313A3BC81534}|code\\code.vcxproj|C:\\figni\\opLabs\\laba2\\firstTry\\code\\code\\account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C90362CD-B771-40C3-8C4F-313A3BC81534}|code\\code.vcxproj|solutionrelative:code\\account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C90362CD-B771-40C3-8C4F-313A3BC81534}|code\\code.vcxproj|C:\\figni\\opLabs\\laba2\\firstTry\\code\\code\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C90362CD-B771-40C3-8C4F-313A3BC81534}|code\\code.vcxproj|solutionrelative:code\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,15 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "account.cpp",
+              "DocumentMoniker": "C:\\figni\\opLabs\\laba2\\firstTry\\code\\code\\account.cpp",
+              "RelativeDocumentMoniker": "code\\account.cpp",
+              "ToolTip": "C:\\figni\\opLabs\\laba2\\firstTry\\code\\code\\account.cpp",
+              "RelativeToolTip": "code\\account.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-26T10:14:09.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "account.h",
+              "DocumentMoniker": "C:\\figni\\opLabs\\laba2\\firstTry\\code\\code\\account.h",
+              "RelativeDocumentMoniker": "code\\account.h",
+              "ToolTip": "C:\\figni\\opLabs\\laba2\\firstTry\\code\\code\\account.h",
+              "RelativeToolTip": "code\\account.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-26T10:13:45.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\figni\\opLabs\\laba2\\firstTry\\code\\code\\main.cpp",
               "RelativeDocumentMoniker": "code\\main.cpp",
               "ToolTip": "C:\\figni\\opLabs\\laba2\\firstTry\\code\\code\\main.cpp",
               "RelativeToolTip": "code\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-26T09:59:13.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T09:59:13.484Z"
             }
           ]
         },
