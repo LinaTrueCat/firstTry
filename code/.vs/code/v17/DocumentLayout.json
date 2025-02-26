@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\figni\\opLabs\\laba2\\firstTry\\code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C90362CD-B771-40C3-8C4F-313A3BC81534}|code\\code.vcxproj|C:\\figni\\opLabs\\laba2\\firstTry\\code\\code\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C90362CD-B771-40C3-8C4F-313A3BC81534}|code\\code.vcxproj|solutionrelative:code\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\figni\\opLabs\\laba2\\firstTry\\code\\code\\main.cpp",
+              "RelativeDocumentMoniker": "code\\main.cpp",
+              "ToolTip": "C:\\figni\\opLabs\\laba2\\firstTry\\code\\code\\main.cpp",
+              "RelativeToolTip": "code\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-26T09:59:13.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
